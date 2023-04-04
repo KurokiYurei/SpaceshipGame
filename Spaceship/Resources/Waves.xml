@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<START>
+	<ROUNDS>
+		<WAVE>
+			<ENEMY>
+				<coordY posY = "10"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "13"></coordY>
+			</ENEMY>
+		</WAVE>
+		<WAVE>
+			<ENEMY>
+				<coordY posY = "6"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "8"></coordY>
+			</ENEMY>
+		</WAVE>
+		<WAVE>
+			<ENEMY>
+				<coordY posY = "19"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "21"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "23"></coordY>
+			</ENEMY>
+		</WAVE>
+		<WAVE>
+			<ENEMY>
+				<coordY posY = "10"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "23"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "5"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "12"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "18"></coordY>
+			</ENEMY>
+		</WAVE>
+		<WAVE>
+			<ENEMY>
+				<coordY posY = "5"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "9"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "10"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "15"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "18"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "21"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "23"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "12"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "14"></coordY>
+			</ENEMY>
+			<ENEMY>
+				<coordY posY = "20"></coordY>
+			</ENEMY>
+		</WAVE>
+	</ROUNDS>
+</START>
